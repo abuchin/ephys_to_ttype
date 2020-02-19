@@ -1,0 +1,2055 @@
+{
+  "node_attributes": [
+    {
+      "members": 69,
+      "midpoint": 42.0889,
+      "height": 0.5566,
+      "label": "FAIL",
+      "nodePar.cex": 2,
+      "nodePar.col": 3,
+      "_row": "n2"
+    }
+  ],
+  "children": [
+    {
+      "node_attributes": [
+        {
+          "members": 45,
+          "midpoint": 23.2148,
+          "height": 0.4148,
+          "label": "Inhibitory",
+          "nodePar.cex": 2,
+          "nodePar.col": 3,
+          "_row": "n26"
+        }
+      ],
+      "children": [
+        {
+          "node_attributes": [
+            {
+              "members": 27,
+              "midpoint": 8.4297,
+              "height": 0.3449,
+              "label": "ADARB2",
+              "nodePar.cex": 2,
+              "nodePar.col": 3,
+              "_row": "n27"
+            }
+          ],
+          "children": [
+            {
+              "node_attributes": [
+                {
+                  "members": 6,
+                  "midpoint": 1.8125,
+                  "height": 0.2938,
+                  "label": "LAMP5/PAX6",
+                  "nodePar.cex": 2,
+                  "nodePar.col": 3,
+                  "_row": "n48"
+                }
+              ],
+              "children": [
+                {
+                  "node_attributes": [
+                    {
+                      "members": 2,
+                      "midpoint": 0.5,
+                      "height": 0.1516,
+                      "label": "PAX6",
+                      "nodePar.cex": 2,
+                      "nodePar.col": 3,
+                      "_row": "n49"
+                    }
+                  ],
+                  "children": [
+                    {
+                      "leaf_attributes": [
+                        {
+                          "label": "Inh L1-2 PAX6 CDH12",
+                          "members": 1,
+                          "height": 0,
+                          "leaf": true,
+                          "nodePar.pch": 19,
+                          "nodePar.cex": 2,
+                          "nodePar.col": 3,
+                          "nodePar.lab.col": "#DDACC9",
+                          "_row": "Inh L1-2 PAX6 CDH12"
+                        }
+                      ]
+                    },
+                    {
+                      "leaf_attributes": [
+                        {
+                          "label": "Inh L1-2 PAX6 TNFAIP8L3",
+                          "members": 1,
+                          "height": 0,
+                          "leaf": true,
+                          "nodePar.pch": 19,
+                          "nodePar.cex": 2,
+                          "nodePar.col": 3,
+                          "nodePar.lab.col": "#FF88AD",
+                          "_row": "Inh L1-2 PAX6 TNFAIP8L3"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "node_attributes": [
+                    {
+                      "members": 4,
+                      "midpoint": 1.125,
+                      "height": 0.1782,
+                      "label": "LAMP5|a",
+                      "nodePar.cex": 2,
+                      "nodePar.col": 3,
+                      "_row": "n50"
+                    }
+                  ],
+                  "children": [
+                    {
+                      "leaf_attributes": [
+                        {
+                          "members": 1,
+                          "height": 0,
+                          "label": "Inh L1 SST NMBR (ADARB2+)",
+                          "leaf": true,
+                          "nodePar.pch": 19,
+                          "nodePar.cex": 2,
+                          "nodePar.col": 3,
+                          "nodePar.lab.col": "#E67B73",
+                          "_row": "Inh L1 SST NMBR"
+                        }
+                      ]
+                    },
+                    {
+                      "node_attributes": [
+                        {
+                          "members": 3,
+                          "midpoint": 1.25,
+                          "height": 0.1372,
+                          "label": "LAMP5|b",
+                          "nodePar.cex": 2,
+                          "nodePar.col": 3,
+                          "_row": "n51"
+                        }
+                      ],
+                      "children": [
+                        {
+                          "node_attributes": [
+                            {
+                              "members": 2,
+                              "midpoint": 0.5,
+                              "height": 0.0981,
+                              "label": "LAMP5|c",
+                              "nodePar.cex": 2,
+                              "nodePar.col": 3,
+                              "_row": "n52"
+                            }
+                          ],
+                          "children": [
+                            {
+                              "leaf_attributes": [
+                                {
+                                  "label": "Inh L1-4 LAMP5 LCP2 (rosehip)",
+                                  "members": 1,
+                                  "height": 0,
+                                  "leaf": true,
+                                  "nodePar.pch": 19,
+                                  "nodePar.cex": 2,
+                                  "nodePar.col": 3,
+                                  "nodePar.lab.col": "#FFA388",
+                                  "_row": "Inh L1-4 LAMP5 LCP2"
+                                }
+                              ]
+                            },
+                            {
+                              "leaf_attributes": [
+                                {
+                                  "label": "Inh L1-2 LAMP5 DBP",
+                                  "members": 1,
+                                  "height": 0,
+                                  "leaf": true,
+                                  "nodePar.pch": 19,
+                                  "nodePar.cex": 2,
+                                  "nodePar.col": 3,
+                                  "nodePar.lab.col": "#FF7466",
+                                  "_row": "Inh L1-2 LAMP5 DBP"
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "leaf_attributes": [
+                            {
+                              "members": 1,
+                              "height": 0,
+                              "label": "Inh L2-6 LAMP5 CA1 (Igtp)",
+                              "leaf": true,
+                              "nodePar.pch": 19,
+                              "nodePar.cex": 2,
+                              "nodePar.col": 3,
+                              "nodePar.lab.col": "#C77963",
+                              "_row": "Inh L2-6 LAMP5 CA1"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "node_attributes": [
+                {
+                  "members": 21,
+                  "midpoint": 9.0469,
+                  "height": 0.2745,
+                  "label": "VIP+ (all)",
+                  "nodePar.cex": 2,
+                  "nodePar.col": 3,
+                  "_row": "n28"
+                }
+              ],
+              "children": [
+                {
+                  "node_attributes": [
+                    {
+                      "members": 8,
+                      "midpoint": 4.5,
+                      "height": 0.2731,
+                      "label": "VIP+ |a",
+                      "nodePar.cex": 2,
+                      "nodePar.col": 3,
+                      "_row": "n41"
+                    }
+                  ],
+                  "children": [
+                    {
+                      "node_attributes": [
+                        {
+                          "members": 6,
+                          "midpoint": 2.5,
+                          "height": 0.2306,
+                          "label": "VIP+ |b",
+                          "nodePar.cex": 2,
+                          "nodePar.col": 3,
+                          "_row": "n43"
+                        }
+                      ],
+                      "children": [
+                        {
+                          "node_attributes": [
+                            {
+                              "members": 3,
+                              "midpoint": 1.25,
+                              "height": 0.1322,
+                              "label": "L1-L2 ADARB2|a",
+                              "nodePar.cex": 2,
+                              "nodePar.col": 3,
+                              "_row": "n44"
+                            }
+                          ],
+                          "children": [
+                            {
+                              "node_attributes": [
+                                {
+                                  "members": 2,
+                                  "midpoint": 0.5,
+                                  "height": 0.0857,
+                                  "label": "L1-L2 ADARB2|b",
+                                  "nodePar.cex": 2,
+                                  "nodePar.col": 3,
+                                  "_row": "n45"
+                                }
+                              ],
+                              "children": [
+                                {
+                                  "leaf_attributes": [
+                                    {
+                                      "label": "Inh L1 SST CHRNA4 (ADARB2+)",
+                                      "members": 1,
+                                      "height": 0,
+                                      "leaf": true,
+                                      "nodePar.pch": 19,
+                                      "nodePar.cex": 2,
+                                      "nodePar.col": 3,
+                                      "nodePar.lab.col": "#DD6091",
+                                      "_row": "Inh L1 SST CHRNA4"
+                                    }
+                                  ]
+                                },
+                                {
+                                  "leaf_attributes": [
+                                    {
+                                      "label": "Inh L1-2 GAD1 MC4R (ADARB2+)",
+                                      "members": 1,
+                                      "height": 0,
+                                      "leaf": true,
+                                      "nodePar.pch": 19,
+                                      "nodePar.cex": 2,
+                                      "nodePar.col": 3,
+                                      "nodePar.lab.col": "#FF7290",
+                                      "_row": "Inh L1-2 GAD1 MC4R"
+                                    }
+                                  ]
+                                }
+                              ]
+                            },
+                            {
+                              "leaf_attributes": [
+                                {
+                                  "members": 1,
+                                  "height": 0,
+                                  "label": "Inh L1-2 SST BAGE2 (ADARB2+)",
+                                  "leaf": true,
+                                  "nodePar.pch": 19,
+                                  "nodePar.cex": 2,
+                                  "nodePar.col": 3,
+                                  "nodePar.lab.col": "#9440F3",
+                                  "_row": "Inh L1-2 SST BAGE2"
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "node_attributes": [
+                            {
+                              "members": 3,
+                              "midpoint": 0.75,
+                              "height": 0.1859,
+                              "label": "VIP or Sncg",
+                              "nodePar.cex": 2,
+                              "nodePar.col": 3,
+                              "_row": "n46"
+                            }
+                          ],
+                          "children": [
+                            {
+                              "leaf_attributes": [
+                                {
+                                  "members": 1,
+                                  "height": 0,
+                                  "label": "Inh L1-3 PAX6 SYT6 (Sncg)",
+                                  "leaf": true,
+                                  "nodePar.pch": 19,
+                                  "nodePar.cex": 2,
+                                  "nodePar.col": 3,
+                                  "nodePar.lab.col": "#9900B3",
+                                  "_row": "Inh L1-3 PAX6 SYT6"
+                                }
+                              ]
+                            },
+                            {
+                              "node_attributes": [
+                                {
+                                  "members": 2,
+                                  "midpoint": 0.5,
+                                  "height": 0.1516,
+                                  "label": "VIP (Sncg-like)",
+                                  "nodePar.cex": 2,
+                                  "nodePar.col": 3,
+                                  "_row": "n47"
+                                }
+                              ],
+                              "children": [
+                                {
+                                  "leaf_attributes": [
+                                    {
+                                      "label": "Inh L1-2 VIP TSPAN12",
+                                      "members": 1,
+                                      "height": 0,
+                                      "leaf": true,
+                                      "nodePar.pch": 19,
+                                      "nodePar.cex": 2,
+                                      "nodePar.col": 3,
+                                      "nodePar.lab.col": "#6C00BF",
+                                      "_row": "Inh L1-2 VIP TSPAN12"
+                                    }
+                                  ]
+                                },
+                                {
+                                  "leaf_attributes": [
+                                    {
+                                      "label": "Inh L1-4 VIP CHRNA6",
+                                      "members": 1,
+                                      "height": 0,
+                                      "leaf": true,
+                                      "nodePar.pch": 19,
+                                      "nodePar.cex": 2,
+                                      "nodePar.col": 3,
+                                      "nodePar.lab.col": "#7A0099",
+                                      "_row": "Inh L1-4 VIP CHRNA6"
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "node_attributes": [
+                        {
+                          "members": 2,
+                          "midpoint": 0.5,
+                          "height": 0.172,
+                          "label": "VIP (Igfbp6)",
+                          "nodePar.cex": 2,
+                          "nodePar.col": 3,
+                          "_row": "n42"
+                        }
+                      ],
+                      "children": [
+                        {
+                          "leaf_attributes": [
+                            {
+                              "label": "Inh L1-3 VIP ADAMTSL1",
+                              "members": 1,
+                              "height": 0,
+                              "leaf": true,
+                              "nodePar.pch": 19,
+                              "nodePar.cex": 2,
+                              "nodePar.col": 3,
+                              "nodePar.lab.col": "#7779BF",
+                              "_row": "Inh L1-3 VIP ADAMTSL1"
+                            }
+                          ]
+                        },
+                        {
+                          "leaf_attributes": [
+                            {
+                              "label": "Inh L1-4 VIP PENK",
+                              "members": 1,
+                              "height": 0,
+                              "leaf": true,
+                              "nodePar.pch": 19,
+                              "nodePar.cex": 2,
+                              "nodePar.col": 3,
+                              "nodePar.lab.col": "#3C3D73",
+                              "_row": "Inh L1-4 VIP PENK"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "node_attributes": [
+                    {
+                      "members": 13,
+                      "midpoint": 5.5938,
+                      "height": 0.2296,
+                      "label": "VIP|a",
+                      "nodePar.cex": 2,
+                      "nodePar.col": 3,
+                      "_row": "n29"
+                    }
+                  ],
+                  "children": [
+                    {
+                      "node_attributes": [
+                        {
+                          "members": 5,
+                          "midpoint": 2.375,
+                          "height": 0.2035,
+                          "label": "VIP|b",
+                          "nodePar.cex": 2,
+                          "nodePar.col": 3,
+                          "_row": "n37"
+                        }
+                      ],
+                      "children": [
+                        {
+                          "node_attributes": [
+                            {
+                              "members": 3,
+                              "midpoint": 1.25,
+                              "height": 0.1598,
+                              "label": "VIP|c",
+                              "nodePar.cex": 2,
+                              "nodePar.col": 3,
+                              "_row": "n39"
+                            }
+                          ],
+                          "children": [
+                            {
+                              "node_attributes": [
+                                {
+                                  "members": 2,
+                                  "midpoint": 0.5,
+                                  "height": 0.1211,
+                                  "label": "VIP|d",
+                                  "nodePar.cex": 2,
+                                  "nodePar.col": 3,
+                                  "_row": "n40"
+                                }
+                              ],
+                              "children": [
+                                {
+                                  "leaf_attributes": [
+                                    {
+                                      "label": "Inh L2-6 VIP QPCT",
+                                      "members": 1,
+                                      "height": 0,
+                                      "leaf": true,
+                                      "nodePar.pch": 19,
+                                      "nodePar.cex": 2,
+                                      "nodePar.col": 3,
+                                      "nodePar.lab.col": "#A700FF",
+                                      "_row": "Inh L2-6 VIP QPCT"
+                                    }
+                                  ]
+                                },
+                                {
+                                  "leaf_attributes": [
+                                    {
+                                      "label": "Inh L3-6 VIP HS3ST3A1",
+                                      "members": 1,
+                                      "height": 0,
+                                      "leaf": true,
+                                      "nodePar.pch": 19,
+                                      "nodePar.cex": 2,
+                                      "nodePar.col": 3,
+                                      "nodePar.lab.col": "#FF00FF",
+                                      "_row": "Inh L3-6 VIP HS3ST3A1"
+                                    }
+                                  ]
+                                }
+                              ]
+                            },
+                            {
+                              "leaf_attributes": [
+                                {
+                                  "members": 1,
+                                  "height": 0,
+                                  "label": "Inh L1-2 VIP PCDH20",
+                                  "leaf": true,
+                                  "nodePar.pch": 19,
+                                  "nodePar.cex": 2,
+                                  "nodePar.col": 3,
+                                  "nodePar.lab.col": "#BD3D9A",
+                                  "_row": "Inh L1-2 VIP PCDH20"
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "node_attributes": [
+                            {
+                              "members": 2,
+                              "midpoint": 0.5,
+                              "height": 0.1208,
+                              "label": "VIP|e",
+                              "nodePar.cex": 2,
+                              "nodePar.col": 3,
+                              "_row": "n38"
+                            }
+                          ],
+                          "children": [
+                            {
+                              "leaf_attributes": [
+                                {
+                                  "label": "Inh L2-5 VIP SERPINF1",
+                                  "members": 1,
+                                  "height": 0,
+                                  "leaf": true,
+                                  "nodePar.pch": 19,
+                                  "nodePar.cex": 2,
+                                  "nodePar.col": 3,
+                                  "nodePar.lab.col": "#B09FFF",
+                                  "_row": "Inh L2-5 VIP SERPINF1"
+                                }
+                              ]
+                            },
+                            {
+                              "leaf_attributes": [
+                                {
+                                  "label": "Inh L2-5 VIP TYR",
+                                  "members": 1,
+                                  "height": 0,
+                                  "leaf": true,
+                                  "nodePar.pch": 19,
+                                  "nodePar.cex": 2,
+                                  "nodePar.col": 3,
+                                  "nodePar.lab.col": "#FF4DC1",
+                                  "_row": "Inh L2-5 VIP TYR"
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "node_attributes": [
+                        {
+                          "members": 8,
+                          "midpoint": 3.8125,
+                          "height": 0.188,
+                          "label": "VIP|f",
+                          "nodePar.cex": 2,
+                          "nodePar.col": 3,
+                          "_row": "n30"
+                        }
+                      ],
+                      "children": [
+                        {
+                          "node_attributes": [
+                            {
+                              "members": 4,
+                              "midpoint": 2.125,
+                              "height": 0.1341,
+                              "label": "VIP|g",
+                              "nodePar.cex": 2,
+                              "nodePar.col": 3,
+                              "_row": "n31"
+                            }
+                          ],
+                          "children": [
+                            {
+                              "node_attributes": [
+                                {
+                                  "members": 3,
+                                  "midpoint": 1.25,
+                                  "height": 0.0953,
+                                  "label": "VIP|h",
+                                  "nodePar.cex": 2,
+                                  "nodePar.col": 3,
+                                  "_row": "n32"
+                                }
+                              ],
+                              "children": [
+                                {
+                                  "node_attributes": [
+                                    {
+                                      "members": 2,
+                                      "midpoint": 0.5,
+                                      "height": 0.0836,
+                                      "label": "VIP|i",
+                                      "nodePar.cex": 2,
+                                      "nodePar.col": 3,
+                                      "_row": "n33"
+                                    }
+                                  ],
+                                  "children": [
+                                    {
+                                      "leaf_attributes": [
+                                        {
+                                          "label": "Inh L1-3 VIP CHRM2",
+                                          "members": 1,
+                                          "height": 0,
+                                          "leaf": true,
+                                          "nodePar.pch": 19,
+                                          "nodePar.cex": 2,
+                                          "nodePar.col": 3,
+                                          "nodePar.lab.col": "#9FAAFF",
+                                          "_row": "Inh L1-3 VIP CHRM2"
+                                        }
+                                      ]
+                                    },
+                                    {
+                                      "leaf_attributes": [
+                                        {
+                                          "label": "Inh L2-4 VIP CBLN1",
+                                          "members": 1,
+                                          "height": 0,
+                                          "leaf": true,
+                                          "nodePar.pch": 19,
+                                          "nodePar.cex": 2,
+                                          "nodePar.col": 3,
+                                          "nodePar.lab.col": "#756FB3",
+                                          "_row": "Inh L2-4 VIP CBLN1"
+                                        }
+                                      ]
+                                    }
+                                  ]
+                                },
+                                {
+                                  "leaf_attributes": [
+                                    {
+                                      "members": 1,
+                                      "height": 0,
+                                      "label": "Inh L1-3 VIP CCDC184",
+                                      "leaf": true,
+                                      "nodePar.pch": 19,
+                                      "nodePar.cex": 2,
+                                      "nodePar.col": 3,
+                                      "nodePar.lab.col": "#FF00B3",
+                                      "_row": "Inh L1-3 VIP CCDC184"
+                                    }
+                                  ]
+                                }
+                              ]
+                            },
+                            {
+                              "leaf_attributes": [
+                                {
+                                  "members": 1,
+                                  "height": 0,
+                                  "label": "Inh L1-3 VIP GGH",
+                                  "leaf": true,
+                                  "nodePar.pch": 19,
+                                  "nodePar.cex": 2,
+                                  "nodePar.col": 3,
+                                  "nodePar.lab.col": "#B3128A",
+                                  "_row": "Inh L1-3 VIP GGH"
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "node_attributes": [
+                            {
+                              "members": 4,
+                              "midpoint": 1.5,
+                              "height": 0.1729,
+                              "label": "VIP|j",
+                              "nodePar.cex": 2,
+                              "nodePar.col": 3,
+                              "_row": "n34"
+                            }
+                          ],
+                          "children": [
+                            {
+                              "node_attributes": [
+                                {
+                                  "members": 2,
+                                  "midpoint": 0.5,
+                                  "height": 0.0934,
+                                  "label": "VIP|k",
+                                  "nodePar.cex": 2,
+                                  "nodePar.col": 3,
+                                  "_row": "n36"
+                                }
+                              ],
+                              "children": [
+                                {
+                                  "leaf_attributes": [
+                                    {
+                                      "label": "Inh L1-2 VIP LBH",
+                                      "members": 1,
+                                      "height": 0,
+                                      "leaf": true,
+                                      "nodePar.pch": 19,
+                                      "nodePar.cex": 2,
+                                      "nodePar.col": 3,
+                                      "nodePar.lab.col": "#AF00E6",
+                                      "_row": "Inh L1-2 VIP LBH"
+                                    }
+                                  ]
+                                },
+                                {
+                                  "leaf_attributes": [
+                                    {
+                                      "label": "Inh L2-3 VIP CASC6",
+                                      "members": 1,
+                                      "height": 0,
+                                      "leaf": true,
+                                      "nodePar.pch": 19,
+                                      "nodePar.cex": 2,
+                                      "nodePar.col": 3,
+                                      "nodePar.lab.col": "#992E81",
+                                      "_row": "Inh L2-3 VIP CASC6"
+                                    }
+                                  ]
+                                }
+                              ]
+                            },
+                            {
+                              "node_attributes": [
+                                {
+                                  "members": 2,
+                                  "midpoint": 0.5,
+                                  "height": 0.0915,
+                                  "label": "VIP|l",
+                                  "nodePar.cex": 2,
+                                  "nodePar.col": 3,
+                                  "_row": "n35"
+                                }
+                              ],
+                              "children": [
+                                {
+                                  "leaf_attributes": [
+                                    {
+                                      "label": "Inh L2-4 VIP SPAG17",
+                                      "members": 1,
+                                      "height": 0,
+                                      "leaf": true,
+                                      "nodePar.pch": 19,
+                                      "nodePar.cex": 2,
+                                      "nodePar.col": 3,
+                                      "nodePar.lab.col": "#A711C1",
+                                      "_row": "Inh L2-4 VIP SPAG17"
+                                    }
+                                  ]
+                                },
+                                {
+                                  "leaf_attributes": [
+                                    {
+                                      "label": "Inh L1-4 VIP OPRM1",
+                                      "members": 1,
+                                      "height": 0,
+                                      "leaf": true,
+                                      "nodePar.pch": 19,
+                                      "nodePar.cex": 2,
+                                      "nodePar.col": 3,
+                                      "nodePar.lab.col": "#9F219D",
+                                      "_row": "Inh L1-4 VIP OPRM1"
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "node_attributes": [
+            {
+              "members": 18,
+              "midpoint": 11,
+              "height": 0.3492,
+              "label": "LHX6|a",
+              "nodePar.cex": 2,
+              "nodePar.col": 3,
+              "_row": "n53"
+            }
+          ],
+          "children": [
+            {
+              "node_attributes": [
+                {
+                  "members": 17,
+                  "midpoint": 5,
+                  "height": 0.3416,
+                  "label": "LHX6|b",
+                  "nodePar.cex": 2,
+                  "nodePar.col": 3,
+                  "_row": "n54"
+                }
+              ],
+              "children": [
+                {
+                  "leaf_attributes": [
+                    {
+                      "members": 1,
+                      "height": 0,
+                      "label": "Inh L3-6 SST NPY (Chodl)",
+                      "leaf": true,
+                      "nodePar.pch": 19,
+                      "nodePar.cex": 2,
+                      "nodePar.col": 3,
+                      "nodePar.lab.col": "#FFDA50",
+                      "_row": "Inh L3-6 SST NPY"
+                    }
+                  ]
+                },
+                {
+                  "node_attributes": [
+                    {
+                      "members": 16,
+                      "midpoint": 9,
+                      "height": 0.2758,
+                      "label": "LHX6|c",
+                      "nodePar.cex": 2,
+                      "nodePar.col": 3,
+                      "_row": "n55"
+                    }
+                  ],
+                  "children": [
+                    {
+                      "node_attributes": [
+                        {
+                          "members": 10,
+                          "midpoint": 6.7812,
+                          "height": 0.2247,
+                          "label": "SST (all)|a",
+                          "nodePar.cex": 2,
+                          "nodePar.col": 3,
+                          "_row": "n61"
+                        }
+                      ],
+                      "children": [
+                        {
+                          "node_attributes": [
+                            {
+                              "members": 9,
+                              "midpoint": 4.5625,
+                              "height": 0.1999,
+                              "label": "SST (all)|b",
+                              "nodePar.cex": 2,
+                              "nodePar.col": 3,
+                              "_row": "n62"
+                            }
+                          ],
+                          "children": [
+                            {
+                              "node_attributes": [
+                                {
+                                  "members": 6,
+                                  "midpoint": 1.875,
+                                  "height": 0.1763,
+                                  "label": "SST|a",
+                                  "nodePar.cex": 2,
+                                  "nodePar.col": 3,
+                                  "_row": "n65"
+                                }
+                              ],
+                              "children": [
+                                {
+                                  "leaf_attributes": [
+                                    {
+                                      "members": 1,
+                                      "height": 0,
+                                      "label": "Inh L3-6 SST HPGD",
+                                      "leaf": true,
+                                      "nodePar.pch": 19,
+                                      "nodePar.cex": 2,
+                                      "nodePar.col": 3,
+                                      "nodePar.lab.col": "#D9C566",
+                                      "_row": "Inh L3-6 SST HPGD"
+                                    }
+                                  ]
+                                },
+                                {
+                                  "node_attributes": [
+                                    {
+                                      "members": 5,
+                                      "midpoint": 2.75,
+                                      "height": 0.1529,
+                                      "label": "SST|b",
+                                      "nodePar.cex": 2,
+                                      "nodePar.col": 3,
+                                      "_row": "n66"
+                                    }
+                                  ],
+                                  "children": [
+                                    {
+                                      "node_attributes": [
+                                        {
+                                          "members": 4,
+                                          "midpoint": 1.5,
+                                          "height": 0.1212,
+                                          "label": "SST|c",
+                                          "nodePar.cex": 2,
+                                          "nodePar.col": 3,
+                                          "_row": "n67"
+                                        }
+                                      ],
+                                      "children": [
+                                        {
+                                          "node_attributes": [
+                                            {
+                                              "members": 2,
+                                              "midpoint": 0.5,
+                                              "height": 0.0809,
+                                              "label": "SST|d",
+                                              "nodePar.cex": 2,
+                                              "nodePar.col": 3,
+                                              "_row": "n69"
+                                            }
+                                          ],
+                                          "children": [
+                                            {
+                                              "leaf_attributes": [
+                                                {
+                                                  "label": "Inh L4-6 SST B3GAT2",
+                                                  "members": 1,
+                                                  "height": 0,
+                                                  "leaf": true,
+                                                  "nodePar.pch": 19,
+                                                  "nodePar.cex": 2,
+                                                  "nodePar.col": 3,
+                                                  "nodePar.lab.col": "#FFBB33",
+                                                  "_row": "Inh L4-6 SST B3GAT2"
+                                                }
+                                              ]
+                                            },
+                                            {
+                                              "leaf_attributes": [
+                                                {
+                                                  "label": "Inh L5-6 SST KLHDC8A",
+                                                  "members": 1,
+                                                  "height": 0,
+                                                  "leaf": true,
+                                                  "nodePar.pch": 19,
+                                                  "nodePar.cex": 2,
+                                                  "nodePar.col": 3,
+                                                  "nodePar.lab.col": "#C11331",
+                                                  "_row": "Inh L5-6 SST KLHDC8A"
+                                                }
+                                              ]
+                                            }
+                                          ]
+                                        },
+                                        {
+                                          "node_attributes": [
+                                            {
+                                              "members": 2,
+                                              "midpoint": 0.5,
+                                              "height": 0.0808,
+                                              "label": "SST|e",
+                                              "nodePar.cex": 2,
+                                              "nodePar.col": 3,
+                                              "_row": "n68"
+                                            }
+                                          ],
+                                          "children": [
+                                            {
+                                              "leaf_attributes": [
+                                                {
+                                                  "label": "Inh L5-6 SST NPM1P10",
+                                                  "members": 1,
+                                                  "height": 0,
+                                                  "leaf": true,
+                                                  "nodePar.pch": 19,
+                                                  "nodePar.cex": 2,
+                                                  "nodePar.col": 3,
+                                                  "nodePar.lab.col": "#BF8219",
+                                                  "_row": "Inh L5-6 SST NPM1P10"
+                                                }
+                                              ]
+                                            },
+                                            {
+                                              "leaf_attributes": [
+                                                {
+                                                  "label": "Inh L4-6 SST GXYLT2",
+                                                  "members": 1,
+                                                  "height": 0,
+                                                  "leaf": true,
+                                                  "nodePar.pch": 19,
+                                                  "nodePar.cex": 2,
+                                                  "nodePar.col": 3,
+                                                  "nodePar.lab.col": "#802600",
+                                                  "_row": "Inh L4-6 SST GXYLT2"
+                                                }
+                                              ]
+                                            }
+                                          ]
+                                        }
+                                      ]
+                                    },
+                                    {
+                                      "leaf_attributes": [
+                                        {
+                                          "members": 1,
+                                          "height": 0,
+                                          "label": "Inh L4-5 SST STK32A",
+                                          "leaf": true,
+                                          "nodePar.pch": 19,
+                                          "nodePar.cex": 2,
+                                          "nodePar.col": 3,
+                                          "nodePar.lab.col": "#806B19",
+                                          "_row": "Inh L4-5 SST STK32A"
+                                        }
+                                      ]
+                                    }
+                                  ]
+                                }
+                              ]
+                            },
+                            {
+                              "node_attributes": [
+                                {
+                                  "members": 3,
+                                  "midpoint": 1.25,
+                                  "height": 0.1467,
+                                  "label": "SST|f",
+                                  "nodePar.cex": 2,
+                                  "nodePar.col": 3,
+                                  "_row": "n63"
+                                }
+                              ],
+                              "children": [
+                                {
+                                  "node_attributes": [
+                                    {
+                                      "members": 2,
+                                      "midpoint": 0.5,
+                                      "height": 0.0991,
+                                      "label": "SST|g",
+                                      "nodePar.cex": 2,
+                                      "nodePar.col": 3,
+                                      "_row": "n64"
+                                    }
+                                  ],
+                                  "children": [
+                                    {
+                                      "leaf_attributes": [
+                                        {
+                                          "label": "Inh L1-3 SST CALB1",
+                                          "members": 1,
+                                          "height": 0,
+                                          "leaf": true,
+                                          "nodePar.pch": 19,
+                                          "nodePar.cex": 2,
+                                          "nodePar.col": 3,
+                                          "nodePar.lab.col": "#BF480D",
+                                          "_row": "Inh L1-3 SST CALB1"
+                                        }
+                                      ]
+                                    },
+                                    {
+                                      "leaf_attributes": [
+                                        {
+                                          "label": "Inh L3-5 SST ADGRG6",
+                                          "members": 1,
+                                          "height": 0,
+                                          "leaf": true,
+                                          "nodePar.pch": 19,
+                                          "nodePar.cex": 2,
+                                          "nodePar.col": 3,
+                                          "nodePar.lab.col": "#804811",
+                                          "_row": "Inh L3-5 SST ADGRG6"
+                                        }
+                                      ]
+                                    }
+                                  ]
+                                },
+                                {
+                                  "leaf_attributes": [
+                                    {
+                                      "members": 1,
+                                      "height": 0,
+                                      "label": "Inh L2-4 SST FRZB",
+                                      "leaf": true,
+                                      "nodePar.pch": 19,
+                                      "nodePar.cex": 2,
+                                      "nodePar.col": 3,
+                                      "nodePar.lab.col": "#FF554D",
+                                      "_row": "Inh L2-4 SST FRZB"
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "leaf_attributes": [
+                            {
+                              "members": 1,
+                              "height": 0,
+                              "label": "Inh L5-6 SST TH",
+                              "leaf": true,
+                              "nodePar.pch": 19,
+                              "nodePar.cex": 2,
+                              "nodePar.col": 3,
+                              "nodePar.lab.col": "#A81111",
+                              "_row": "Inh L5-6 SST TH"
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "node_attributes": [
+                        {
+                          "members": 6,
+                          "midpoint": 1.2188,
+                          "height": 0.1698,
+                          "label": "PVALB (all)|a",
+                          "nodePar.cex": 2,
+                          "nodePar.col": 3,
+                          "_row": "n56"
+                        }
+                      ],
+                      "children": [
+                        {
+                          "leaf_attributes": [
+                            {
+                              "members": 1,
+                              "height": 0,
+                              "label": "Inh L5-6 GAD1 GLP1R (LHX6+)",
+                              "leaf": true,
+                              "nodePar.pch": 19,
+                              "nodePar.cex": 2,
+                              "nodePar.col": 3,
+                              "nodePar.lab.col": "#FF2F7E",
+                              "_row": "Inh L5-6 GAD1 GLP1R"
+                            }
+                          ]
+                        },
+                        {
+                          "node_attributes": [
+                            {
+                              "members": 5,
+                              "midpoint": 1.4375,
+                              "height": 0.1367,
+                              "label": "PVALB (all)|b",
+                              "nodePar.cex": 2,
+                              "nodePar.col": 3,
+                              "_row": "n57"
+                            }
+                          ],
+                          "children": [
+                            {
+                              "leaf_attributes": [
+                                {
+                                  "members": 1,
+                                  "height": 0,
+                                  "label": "Inh L5-6 PVALB LGR5",
+                                  "leaf": true,
+                                  "nodePar.pch": 19,
+                                  "nodePar.cex": 2,
+                                  "nodePar.col": 3,
+                                  "nodePar.lab.col": "#ED4C50",
+                                  "_row": "Inh L5-6 PVALB LGR5"
+                                }
+                              ]
+                            },
+                            {
+                              "node_attributes": [
+                                {
+                                  "members": 4,
+                                  "midpoint": 1.875,
+                                  "height": 0.1018,
+                                  "label": "PVALB|a",
+                                  "nodePar.cex": 2,
+                                  "nodePar.col": 3,
+                                  "_row": "n58"
+                                }
+                              ],
+                              "children": [
+                                {
+                                  "node_attributes": [
+                                    {
+                                      "members": 3,
+                                      "midpoint": 0.75,
+                                      "height": 0.0807,
+                                      "label": "PVALB|b",
+                                      "nodePar.cex": 2,
+                                      "nodePar.col": 3,
+                                      "_row": "n59"
+                                    }
+                                  ],
+                                  "children": [
+                                    {
+                                      "leaf_attributes": [
+                                        {
+                                          "members": 1,
+                                          "height": 0,
+                                          "label": "Inh L4-5 PVALB MEPE",
+                                          "leaf": true,
+                                          "nodePar.pch": 19,
+                                          "nodePar.cex": 2,
+                                          "nodePar.col": 3,
+                                          "nodePar.lab.col": "#994C00",
+                                          "_row": "Inh L4-5 PVALB MEPE"
+                                        }
+                                      ]
+                                    },
+                                    {
+                                      "node_attributes": [
+                                        {
+                                          "members": 2,
+                                          "midpoint": 0.5,
+                                          "height": 0.0667,
+                                          "label": "PVALB|c",
+                                          "nodePar.cex": 2,
+                                          "nodePar.col": 3,
+                                          "_row": "n60"
+                                        }
+                                      ],
+                                      "children": [
+                                        {
+                                          "leaf_attributes": [
+                                            {
+                                              "label": "Inh L2-4 PVALB WFDC2",
+                                              "members": 1,
+                                              "height": 0,
+                                              "leaf": true,
+                                              "nodePar.pch": 19,
+                                              "nodePar.cex": 2,
+                                              "nodePar.col": 3,
+                                              "nodePar.lab.col": "#BC2B11",
+                                              "_row": "Inh L2-4 PVALB WFDC2"
+                                            }
+                                          ]
+                                        },
+                                        {
+                                          "leaf_attributes": [
+                                            {
+                                              "label": "Inh L4-6 PVALB SULF1",
+                                              "members": 1,
+                                              "height": 0,
+                                              "leaf": true,
+                                              "nodePar.pch": 19,
+                                              "nodePar.cex": 2,
+                                              "nodePar.col": 3,
+                                              "nodePar.lab.col": "#E62A5D",
+                                              "_row": "Inh L4-6 PVALB SULF1"
+                                            }
+                                          ]
+                                        }
+                                      ]
+                                    }
+                                  ]
+                                },
+                                {
+                                  "leaf_attributes": [
+                                    {
+                                      "members": 1,
+                                      "height": 0,
+                                      "label": "Inh L5-6 SST MIR548F2",
+                                      "leaf": true,
+                                      "nodePar.pch": 19,
+                                      "nodePar.cex": 2,
+                                      "nodePar.col": 3,
+                                      "nodePar.lab.col": "#D6221D",
+                                      "_row": "Inh L5-6 SST MIR548F2"
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "leaf_attributes": [
+                {
+                  "members": 1,
+                  "height": 0,
+                  "label": "Inh L2-5 PVALB SCUBE3 (chandelier)",
+                  "leaf": true,
+                  "nodePar.pch": 19,
+                  "nodePar.cex": 2,
+                  "nodePar.col": 3,
+                  "nodePar.lab.col": "#FF197F",
+                  "_row": "Inh L2-5 PVALB SCUBE3"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "node_attributes": [
+        {
+          "members": 24,
+          "midpoint": 15.9629,
+          "height": 0.3534,
+          "label": "Excitatory",
+          "nodePar.cex": 2,
+          "nodePar.col": 3,
+          "_row": "n3"
+        }
+      ],
+      "children": [
+        {
+          "node_attributes": [
+            {
+              "members": 18,
+              "midpoint": 12.6445,
+              "height": 0.3174,
+              "label": "L1-L6",
+              "nodePar.cex": 2,
+              "nodePar.col": 3,
+              "_row": "n4"
+            }
+          ],
+          "children": [
+            {
+              "node_attributes": [
+                {
+                  "members": 15,
+                  "midpoint": 9.5391,
+                  "height": 0.3044,
+                  "label": "L1-L5|a",
+                  "nodePar.cex": 2,
+                  "nodePar.col": 3,
+                  "_row": "n7"
+                }
+              ],
+              "children": [
+                {
+                  "node_attributes": [
+                    {
+                      "members": 14,
+                      "midpoint": 5.0781,
+                      "height": 0.2572,
+                      "label": "L1-L5|b",
+                      "nodePar.cex": 2,
+                      "nodePar.col": 3,
+                      "_row": "n8"
+                    }
+                  ],
+                  "children": [
+                    {
+                      "node_attributes": [
+                        {
+                          "members": 4,
+                          "midpoint": 2.125,
+                          "height": 0.175,
+                          "label": "L2-L3 or L6",
+                          "nodePar.cex": 2,
+                          "nodePar.col": 3,
+                          "_row": "n9"
+                        }
+                      ],
+                      "children": [
+                        {
+                          "node_attributes": [
+                            {
+                              "members": 3,
+                              "midpoint": 1.25,
+                              "height": 0.1213,
+                              "label": "L2-L3|a",
+                              "nodePar.cex": 2,
+                              "nodePar.col": 3,
+                              "_row": "n10"
+                            }
+                          ],
+                          "children": [
+                            {
+                              "node_attributes": [
+                                {
+                                  "members": 2,
+                                  "midpoint": 0.5,
+                                  "height": 0.0728,
+                                  "label": "L2-L3|b",
+                                  "nodePar.cex": 2,
+                                  "nodePar.col": 3,
+                                  "_row": "n11"
+                                }
+                              ],
+                              "children": [
+                                {
+                                  "leaf_attributes": [
+                                    {
+                                      "label": "Exc L2 LAMP5 LTK",
+                                      "members": 1,
+                                      "height": 0,
+                                      "leaf": true,
+                                      "nodePar.pch": 19,
+                                      "nodePar.cex": 2,
+                                      "nodePar.col": 3,
+                                      "nodePar.lab.col": "#D9F077",
+                                      "_row": "Exc L2 LAMP5 LTK"
+                                    }
+                                  ]
+                                },
+                                {
+                                  "leaf_attributes": [
+                                    {
+                                      "label": "Exc L2-4 LINC00507 GLP2R",
+                                      "members": 1,
+                                      "height": 0,
+                                      "leaf": true,
+                                      "nodePar.pch": 19,
+                                      "nodePar.cex": 2,
+                                      "nodePar.col": 3,
+                                      "nodePar.lab.col": "#A6E6A9",
+                                      "_row": "Exc L2-4 LINC00507 GLP2R"
+                                    }
+                                  ]
+                                }
+                              ]
+                            },
+                            {
+                              "leaf_attributes": [
+                                {
+                                  "members": 1,
+                                  "height": 0,
+                                  "label": "Exc L2-3 LINC00507 FREM3",
+                                  "leaf": true,
+                                  "nodePar.pch": 19,
+                                  "nodePar.cex": 2,
+                                  "nodePar.col": 3,
+                                  "nodePar.lab.col": "#7AE6AB",
+                                  "_row": "Exc L2-3 LINC00507 FREM3"
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "leaf_attributes": [
+                            {
+                              "members": 1,
+                              "height": 0,
+                              "label": "Exc L5-6 THEMIS C1QL3",
+                              "leaf": true,
+                              "nodePar.pch": 19,
+                              "nodePar.cex": 2,
+                              "nodePar.col": 3,
+                              "nodePar.lab.col": "#A19922",
+                              "_row": "Exc L5-6 THEMIS C1QL3"
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "node_attributes": [
+                        {
+                          "members": 10,
+                          "midpoint": 4.0312,
+                          "height": 0.2141,
+                          "label": "RORB (all)",
+                          "nodePar.cex": 2,
+                          "nodePar.col": 3,
+                          "_row": "n12"
+                        }
+                      ],
+                      "children": [
+                        {
+                          "node_attributes": [
+                            {
+                              "members": 5,
+                              "midpoint": 0.9375,
+                              "height": 0.1775,
+                              "label": "RORB (L3-L4, all)",
+                              "nodePar.cex": 2,
+                              "nodePar.col": 3,
+                              "_row": "n13"
+                            }
+                          ],
+                          "children": [
+                            {
+                              "leaf_attributes": [
+                                {
+                                  "members": 1,
+                                  "height": 0,
+                                  "label": "Exc L3-4 RORB CARM1P1",
+                                  "leaf": true,
+                                  "nodePar.pch": 19,
+                                  "nodePar.cex": 2,
+                                  "nodePar.col": 3,
+                                  "nodePar.lab.col": "#00979D",
+                                  "_row": "Exc L3-4 RORB CARM1P1"
+                                }
+                              ]
+                            },
+                            {
+                              "node_attributes": [
+                                {
+                                  "members": 4,
+                                  "midpoint": 0.875,
+                                  "height": 0.1584,
+                                  "label": "RORB (L4)|a",
+                                  "nodePar.cex": 2,
+                                  "nodePar.col": 3,
+                                  "_row": "n14"
+                                }
+                              ],
+                              "children": [
+                                {
+                                  "leaf_attributes": [
+                                    {
+                                      "members": 1,
+                                      "height": 0,
+                                      "label": "Exc L3-5 RORB ESR1",
+                                      "leaf": true,
+                                      "nodePar.pch": 19,
+                                      "nodePar.cex": 2,
+                                      "nodePar.col": 3,
+                                      "nodePar.lab.col": "#00DDC5",
+                                      "_row": "Exc L3-5 RORB ESR1"
+                                    }
+                                  ]
+                                },
+                                {
+                                  "node_attributes": [
+                                    {
+                                      "members": 3,
+                                      "midpoint": 0.75,
+                                      "height": 0.1183,
+                                      "label": "RORB (L4)|b",
+                                      "nodePar.cex": 2,
+                                      "nodePar.col": 3,
+                                      "_row": "n15"
+                                    }
+                                  ],
+                                  "children": [
+                                    {
+                                      "leaf_attributes": [
+                                        {
+                                          "members": 1,
+                                          "height": 0,
+                                          "label": "Exc L3-5 RORB COL22A1",
+                                          "leaf": true,
+                                          "nodePar.pch": 19,
+                                          "nodePar.cex": 2,
+                                          "nodePar.col": 3,
+                                          "nodePar.lab.col": "#00A79D",
+                                          "_row": "Exc L3-5 RORB COL22A1"
+                                        }
+                                      ]
+                                    },
+                                    {
+                                      "node_attributes": [
+                                        {
+                                          "members": 2,
+                                          "midpoint": 0.5,
+                                          "height": 0.0712,
+                                          "label": "RORB (L4)|c",
+                                          "nodePar.cex": 2,
+                                          "nodePar.col": 3,
+                                          "_row": "n16"
+                                        }
+                                      ],
+                                      "children": [
+                                        {
+                                          "leaf_attributes": [
+                                            {
+                                              "label": "Exc L3-5 RORB FILIP1L",
+                                              "members": 1,
+                                              "height": 0,
+                                              "leaf": true,
+                                              "nodePar.pch": 19,
+                                              "nodePar.cex": 2,
+                                              "nodePar.col": 3,
+                                              "nodePar.lab.col": "#0094C2",
+                                              "_row": "Exc L3-5 RORB FILIP1L"
+                                            }
+                                          ]
+                                        },
+                                        {
+                                          "leaf_attributes": [
+                                            {
+                                              "label": "Exc L3-5 RORB TWIST2",
+                                              "members": 1,
+                                              "height": 0,
+                                              "leaf": true,
+                                              "nodePar.pch": 19,
+                                              "nodePar.cex": 2,
+                                              "nodePar.col": 3,
+                                              "nodePar.lab.col": "#77D9B7",
+                                              "_row": "Exc L3-5 RORB TWIST2"
+                                            }
+                                          ]
+                                        }
+                                      ]
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "node_attributes": [
+                            {
+                              "members": 5,
+                              "midpoint": 2.125,
+                              "height": 0.1904,
+                              "label": "RORB (L4-L5, all)",
+                              "nodePar.cex": 2,
+                              "nodePar.col": 3,
+                              "_row": "n17"
+                            }
+                          ],
+                          "children": [
+                            {
+                              "node_attributes": [
+                                {
+                                  "members": 3,
+                                  "midpoint": 0.75,
+                                  "height": 0.1353,
+                                  "label": "RORB (L4-L5)|a",
+                                  "nodePar.cex": 2,
+                                  "nodePar.col": 3,
+                                  "_row": "n19"
+                                }
+                              ],
+                              "children": [
+                                {
+                                  "leaf_attributes": [
+                                    {
+                                      "members": 1,
+                                      "height": 0,
+                                      "label": "Exc L4-5 RORB FOLH1B",
+                                      "leaf": true,
+                                      "nodePar.pch": 19,
+                                      "nodePar.cex": 2,
+                                      "nodePar.col": 3,
+                                      "nodePar.lab.col": "#00A809",
+                                      "_row": "Exc L4-5 RORB FOLH1B"
+                                    }
+                                  ]
+                                },
+                                {
+                                  "node_attributes": [
+                                    {
+                                      "members": 2,
+                                      "midpoint": 0.5,
+                                      "height": 0.1075,
+                                      "label": "RORB (L4-L5)|b",
+                                      "nodePar.cex": 2,
+                                      "nodePar.col": 3,
+                                      "_row": "n20"
+                                    }
+                                  ],
+                                  "children": [
+                                    {
+                                      "leaf_attributes": [
+                                        {
+                                          "label": "Exc L4-6 RORB SEMA3E",
+                                          "members": 1,
+                                          "height": 0,
+                                          "leaf": true,
+                                          "nodePar.pch": 19,
+                                          "nodePar.cex": 2,
+                                          "nodePar.col": 3,
+                                          "nodePar.lab.col": "#26FFF2",
+                                          "_row": "Exc L4-6 RORB SEMA3E"
+                                        }
+                                      ]
+                                    },
+                                    {
+                                      "leaf_attributes": [
+                                        {
+                                          "label": "Exc L4-5 RORB DAPK2",
+                                          "members": 1,
+                                          "height": 0,
+                                          "leaf": true,
+                                          "nodePar.pch": 19,
+                                          "nodePar.cex": 2,
+                                          "nodePar.col": 3,
+                                          "nodePar.lab.col": "#00FF00",
+                                          "_row": "Exc L4-5 RORB DAPK2"
+                                        }
+                                      ]
+                                    }
+                                  ]
+                                }
+                              ]
+                            },
+                            {
+                              "node_attributes": [
+                                {
+                                  "members": 2,
+                                  "midpoint": 0.5,
+                                  "height": 0.083,
+                                  "label": "RORB (L5)",
+                                  "nodePar.cex": 2,
+                                  "nodePar.col": 3,
+                                  "_row": "n18"
+                                }
+                              ],
+                              "children": [
+                                {
+                                  "leaf_attributes": [
+                                    {
+                                      "label": "Exc L5-6 RORB TTC12",
+                                      "members": 1,
+                                      "height": 0,
+                                      "leaf": true,
+                                      "nodePar.pch": 19,
+                                      "nodePar.cex": 2,
+                                      "nodePar.col": 3,
+                                      "nodePar.lab.col": "#26BF64",
+                                      "_row": "Exc L5-6 RORB TTC12"
+                                    }
+                                  ]
+                                },
+                                {
+                                  "leaf_attributes": [
+                                    {
+                                      "label": "Exc L4-6 RORB C1R",
+                                      "members": 1,
+                                      "height": 0,
+                                      "leaf": true,
+                                      "nodePar.pch": 19,
+                                      "nodePar.cex": 2,
+                                      "nodePar.col": 3,
+                                      "nodePar.lab.col": "#008F1F",
+                                      "_row": "Exc L4-6 RORB C1R"
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "leaf_attributes": [
+                    {
+                      "members": 1,
+                      "height": 0,
+                      "label": "Exc L4-5 FEZF2 SCN4B (PT)",
+                      "leaf": true,
+                      "nodePar.pch": 19,
+                      "nodePar.cex": 2,
+                      "nodePar.col": 3,
+                      "nodePar.lab.col": "#104F00",
+                      "_row": "Exc L4-5 FEZF2 SCN4B"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "node_attributes": [
+                {
+                  "members": 3,
+                  "midpoint": 0.75,
+                  "height": 0.0876,
+                  "label": "THEMIS (L6)|a",
+                  "nodePar.cex": 2,
+                  "nodePar.col": 3,
+                  "_row": "n5"
+                }
+              ],
+              "children": [
+                {
+                  "leaf_attributes": [
+                    {
+                      "members": 1,
+                      "height": 0,
+                      "label": "Exc L5-6 THEMIS DCSTAMP",
+                      "leaf": true,
+                      "nodePar.pch": 19,
+                      "nodePar.cex": 2,
+                      "nodePar.col": 3,
+                      "nodePar.lab.col": "#5100FF",
+                      "_row": "Exc L5-6 THEMIS DCSTAMP"
+                    }
+                  ]
+                },
+                {
+                  "node_attributes": [
+                    {
+                      "members": 2,
+                      "midpoint": 0.5,
+                      "height": 0.0578,
+                      "label": "THEMIS (L6)|b",
+                      "nodePar.cex": 2,
+                      "nodePar.col": 3,
+                      "_row": "n6"
+                    }
+                  ],
+                  "children": [
+                    {
+                      "leaf_attributes": [
+                        {
+                          "label": "Exc L5-6 THEMIS CRABP1",
+                          "members": 1,
+                          "height": 0,
+                          "leaf": true,
+                          "nodePar.pch": 19,
+                          "nodePar.cex": 2,
+                          "nodePar.col": 3,
+                          "nodePar.lab.col": "#8046FF",
+                          "_row": "Exc L5-6 THEMIS CRABP1"
+                        }
+                      ]
+                    },
+                    {
+                      "leaf_attributes": [
+                        {
+                          "label": "Exc L5-6 THEMIS FGF10",
+                          "members": 1,
+                          "height": 0,
+                          "leaf": true,
+                          "nodePar.pch": 19,
+                          "nodePar.cex": 2,
+                          "nodePar.col": 3,
+                          "nodePar.lab.col": "#B08BFF",
+                          "_row": "Exc L5-6 THEMIS FGF10"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "node_attributes": [
+            {
+              "members": 6,
+              "midpoint": 1.2812,
+              "height": 0.3435,
+              "label": "FEZF2 (all)",
+              "nodePar.cex": 2,
+              "nodePar.col": 3,
+              "_row": "n21"
+            }
+          ],
+          "children": [
+            {
+              "leaf_attributes": [
+                {
+                  "members": 1,
+                  "height": 0,
+                  "label": "Exc L4-6 FEZF2 IL26 (NP)",
+                  "leaf": true,
+                  "nodePar.pch": 19,
+                  "nodePar.cex": 2,
+                  "nodePar.col": 3,
+                  "nodePar.lab.col": "#73CA95",
+                  "_row": "Exc L4-6 FEZF2 IL26"
+                }
+              ]
+            },
+            {
+              "node_attributes": [
+                {
+                  "members": 5,
+                  "midpoint": 1.5625,
+                  "height": 0.2417,
+                  "label": "FEZF2 (L6b, all)",
+                  "nodePar.cex": 2,
+                  "nodePar.col": 3,
+                  "_row": "n22"
+                }
+              ],
+              "children": [
+                {
+                  "leaf_attributes": [
+                    {
+                      "members": 1,
+                      "height": 0,
+                      "label": "Exc L5-6 FEZF2 ABO",
+                      "leaf": true,
+                      "nodePar.pch": 19,
+                      "nodePar.cex": 2,
+                      "nodePar.col": 3,
+                      "nodePar.lab.col": "#1F6666",
+                      "_row": "Exc L5-6 FEZF2 ABO"
+                    }
+                  ]
+                },
+                {
+                  "node_attributes": [
+                    {
+                      "members": 4,
+                      "midpoint": 2.125,
+                      "height": 0.1735,
+                      "label": "FEZF2 (L6b)|a",
+                      "nodePar.cex": 2,
+                      "nodePar.col": 3,
+                      "_row": "n23"
+                    }
+                  ],
+                  "children": [
+                    {
+                      "node_attributes": [
+                        {
+                          "members": 3,
+                          "midpoint": 1.25,
+                          "height": 0.1438,
+                          "label": "FEZF2 (L6b)|b",
+                          "nodePar.cex": 2,
+                          "nodePar.col": 3,
+                          "_row": "n24"
+                        }
+                      ],
+                      "children": [
+                        {
+                          "node_attributes": [
+                            {
+                              "members": 2,
+                              "midpoint": 0.5,
+                              "height": 0.1058,
+                              "label": "FEZF2 (L6b)|c",
+                              "nodePar.cex": 2,
+                              "nodePar.col": 3,
+                              "_row": "n25"
+                            }
+                          ],
+                          "children": [
+                            {
+                              "leaf_attributes": [
+                                {
+                                  "label": "Exc L6 FEZF2 SCUBE1",
+                                  "members": 1,
+                                  "height": 0,
+                                  "leaf": true,
+                                  "nodePar.pch": 19,
+                                  "nodePar.cex": 2,
+                                  "nodePar.col": 3,
+                                  "nodePar.lab.col": "#388899",
+                                  "_row": "Exc L6 FEZF2 SCUBE1"
+                                }
+                              ]
+                            },
+                            {
+                              "leaf_attributes": [
+                                {
+                                  "label": "Exc L5-6 SLC17A7 IL15",
+                                  "members": 1,
+                                  "height": 0,
+                                  "leaf": true,
+                                  "nodePar.pch": 19,
+                                  "nodePar.cex": 2,
+                                  "nodePar.col": 3,
+                                  "nodePar.lab.col": "#336D99",
+                                  "_row": "Exc L5-6 SLC17A7 IL15"
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "leaf_attributes": [
+                            {
+                              "members": 1,
+                              "height": 0,
+                              "label": "Exc L6 FEZF2 OR2T8",
+                              "leaf": true,
+                              "nodePar.pch": 19,
+                              "nodePar.cex": 2,
+                              "nodePar.col": 3,
+                              "nodePar.lab.col": "#254566",
+                              "_row": "Exc L6 FEZF2 OR2T8"
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "leaf_attributes": [
+                        {
+                          "members": 1,
+                          "height": 0,
+                          "label": "Exc L5-6 FEZF2 EFTUD1P1",
+                          "leaf": true,
+                          "nodePar.pch": 19,
+                          "nodePar.cex": 2,
+                          "nodePar.col": 3,
+                          "nodePar.lab.col": "#335280",
+                          "_row": "Exc L5-6 FEZF2 EFTUD1P1"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
